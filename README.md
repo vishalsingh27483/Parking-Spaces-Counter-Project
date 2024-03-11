@@ -9,7 +9,7 @@ Image training example:
 
 example output:
 
-"C:\Users\vishal\Videos\Captures\Image 2024-03-11 11-32-48.mp4"
+
 
 The 'carPark.mp4' video in the code was taken from: https://www.youtube.com/watch?v=yojapmOkIfg
 This project was created with the help of this video by Murtaza Hassan: https://www.youtube.com/watch?v=caKnQlCMIYI
