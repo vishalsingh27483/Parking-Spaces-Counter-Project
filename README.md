@@ -9,7 +9,7 @@ Image training example:
 
 example output:
 
-<img width="784" alt="Screenshot 2024-03-11 113733" src="https://github.com/vishalsingh27483/Parking-Spaces-Counter-Project/assets/142001295/a1c40db4-cec3-44bb-89e3-08626e393b50">
+"C:\Users\vishal\Videos\Captures\Image 2024-03-11 11-32-48.mp4"
 
 The 'carPark.mp4' video in the code was taken from: https://www.youtube.com/watch?v=yojapmOkIfg
 This project was created with the help of this video by Murtaza Hassan: https://www.youtube.com/watch?v=caKnQlCMIYI
