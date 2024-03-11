@@ -1,4 +1,4 @@
-<img width="825" alt="image" src="https://github.com/vishalsingh27483/Parking-Spaces-Counter-Project/assets/142001295/0b5adc1a-82c4-47d7-b771-68be52416c95"># Parking-Spaces-Counter-Project
+# Parking-Spaces-Counter-Project
 Parking-Spaces-Counter-Project
 This system takes input of an aerial view of a parking lot and shows which spaces are empty and displays the total empty spaces.
 We train an images of the parking lot to mark the 'regions of interests' (parking spaces) and store that data.
